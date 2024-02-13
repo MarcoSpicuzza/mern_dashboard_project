@@ -56,7 +56,7 @@ const Navbar = ({isSidebarOpen, setIsSidebarOpen}) => {
             <SettingsOutlined sx={{ fontSize: "25px"}} />
           </IconButton>
         </FlexBetween>
-
+        {/* suca spicu */}
       </Toolbar>
     </AppBar>
   );
